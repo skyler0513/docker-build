@@ -11,7 +11,8 @@ v2.0/lnmp/mysql/data
 v2.0/lnmp/mysql/log
 v2.0/lnmp/mysql-master/data
 v2.0/lnmp/mysql-slave/data
-v2.0/lnmp/nginx/log
+#v2.0/lnmp/nginx/log
 v2.0/lnmp/nginx/conf.d
-v2.0/lnmp/redis/redis.log
-v2.0/lnmp/redis/data
+#v2.0/lnmp/redis/redis.log
+#v2.0/lnmp/redis/data
+.idea
